@@ -1,16 +1,43 @@
-## Hi there 👋
+```md
+<table>
+<tr>
+<td width="35%">
 
-<!--
-**Varshauiux02/varshauiux02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://via.placeholder.com/250" width="250"/>
 
-Here are some ideas to get you started:
+</td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<td width="65%">
+
+# Hi, I'm Varsha
+
+Business Analyst transitioning from UX Design into Data & Product Analytics.
+
+I work on:
+- SQL projects
+- Power BI dashboards
+- Business case studies
+- Product thinking
+
+Currently building real-world analytics projects focused on:
+- Business insights
+- Process improvement
+- Product metrics
+- Decision-making
+
+</td>
+</tr>
+</table>
+
+---
+
+## Skills
+
+- SQL
+- Power BI
+- Excel
+- Tableau
+- Agile & Scrum
+- UX Research
+- Product Thinking
+```
